@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-ante",
+  "version": "1.0.0",
+  "description": "Shared configurations for JavaScript projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twuni/eslint-plugin-ante"
+  },
+  "author": "Devin Canterberry <devin@twuni.org>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "ante"
+  ],
+  "peerDependencies": {
+    "eslint": "^4.9.0"
+  }
+}
