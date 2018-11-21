@@ -41,14 +41,7 @@ module.exports = {
       "error"
     ],
     "prefer-destructuring": [
-      "error",
-      {
-        "array": true,
-        "object": true
-      },
-      {
-        "enforceForRenamedProperties": true
-      }
+      "off"
     ],
     "prefer-numeric-literals": [
       "error"
